@@ -105,6 +105,7 @@
 20.  COMMUNICATION WITH THE LESSOR
 
     In addition to the communications already stipulated in this lease, the lessee shall provide the lessor with timely information regarding:
+
         * title opinions,
         * drilling and drilling completion reports,
         * well logs,
