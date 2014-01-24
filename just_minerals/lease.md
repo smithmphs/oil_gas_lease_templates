@@ -8,11 +8,11 @@
 
     This lease confers certain rights to the <...> geological formation below the area described in this section.  The lessor reserves the right to lease any other formation to any potential lessee in the future.
 
-            * State: <...>
-            * County: <...>
-            * Township: <...>
-            * Sections and Lots: <...>
-            * Total Acreage: <...>
+        * State: <...>
+        * County: <...>
+        * Township: <...>
+        * Sections and Lots: <...>
+        * Total Acreage: <...>
 
     Near-surface rights are limited to what is reasonably required for drilling and production.
 
@@ -100,18 +100,24 @@
 
 19. RENTAL PAYMENTS
 
-    After expiration of the primary term, rental payments (expressed here on an annualized basis) shall be adjusted for inflation according to the following mathematical formula: $300.00 x acreage under lease x (1 + CPI/100 from year 1 subsequent to primary term) x (1 + CPI/100 from year 2 subsequent to primary term) ... x (1 + (fraction of the present year already past) x (the most recently reported CPI available/100)), where 'CPI' stands for the annualized consumer price index for the United States of America expressed as a percent, where the dots (...) represent a logical continuation of the series based on the preceding sequence and where acreage means only those acres not already released from the lease at the point in time the rental is due.
+    After expiration of the primary term, rental payments (expressed here on an annualized basis) shall be adjusted for inflation according to the following mathematical formula: 
+
+
+        $300.00 x acreage under lease x (1 + CPI/100 from year 1 subsequent to primary term) x (1 + CPI/100 from year 2 subsequent to primary term) ... x (1 + (fraction of the present year already past) x (the most recently reported CPI available/100)), 
+
+
+    where 'CPI' stands for the annualized consumer price index for the United States of America expressed as a percent, where the dots (...) represent a logical continuation of the series based on the preceding sequence and where acreage means only those acres not already released from the lease at the point in time the rental is due.
 
 20.  COMMUNICATION WITH THE LESSOR
 
     In addition to the communications already stipulated in this lease, the lessee shall provide the lessor with timely information regarding:
 
-        * title opinions,
-        * drilling and drilling completion reports,
-        * well logs,
-        * drilling permits,
-        * any mineral discoveries made during the course of drilling
-        * and any other audit data needed for a fair and timely determination of royalty payments
+    * title opinions,
+    * drilling and drilling completion reports,
+    * well logs,
+    * drilling permits,
+    * any mineral discoveries made during the course of drilling
+    * and any other audit data needed for a fair and timely determination of royalty payments
 
 
             
