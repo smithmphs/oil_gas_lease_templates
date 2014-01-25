@@ -22,7 +22,7 @@
 
 4. TITLE RISK
 
-     Lessor does not warrant or agree to defend any interest conveyed by this lease.  Lessee has assumed the risk of title, lien, cloud or claim.  Lessee agrees to hold harmless and indemnify Lessor from any and all claims, causes of action and disputes, including attorney's fees and court costs that lessor may incur as a result of lessee asserting any claim to the minerals here identified.
+     Lessor does not warrant or agree to defend any interest conveyed by this lease.  Lessee assumes the risk of title, lien, cloud or claim.  Lessee agrees to hold harmless and indemnify the lessor from any and all claims, causes of action and disputes, including attorney's fees and court costs that lessor may incur as a result of lessee asserting any claim to the minerals here identified.
 
 5. LEGAL RECOURSE
 
