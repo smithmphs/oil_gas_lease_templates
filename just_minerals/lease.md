@@ -8,11 +8,11 @@
 
     This lease confers certain rights to the <...> geological formation below the area described in this section.  The lessor reserves the right to lease any other formation to any potential lessee in the future.
 
-    * State: <...>
-    * County: <...>
-    * Township: <...>
-    * Sections and Lots: <...>
-    * Total Acreage: <...>
+    * State: *__________________________*
+    * County: *__________________________*
+    * Township: *________________________*
+    * Sections and Lots: *____________________*
+    * Total Acreage: *_____________________*
 
     Near-surface rights are limited to what is reasonably required for drilling and production.
 
@@ -42,7 +42,7 @@
 
 9.  LEASE COMMENCEMENT AND THE PRIMARY TERM
 
-    Lessor, in consideration of two years of delay rental at a rate of $<...> ($<...> per acre x <...> acres) per year for a total lump sum payment of $<...> and of the royalties, covenants, and conditions contained herein to be kept and performed by the lessee, does lease exclusively to lessee the premises described above, for the purpose of exploring, drilling, and producing oil and/or gas from the leased premises for a primary term of two years and as long thereafter as oil and/or gas may be produced in commercial quantities and subject to other provisions as provided herein.  According to trade terminology, this lease shall be considered a ’paid-up’ lease and as such does not obligate the lessee to commence any operations during the primary term.  No part of this lump sum payment shall be refundable under any circumstances.  If after two years, drilling has not started, the lease shall summarily end without notice.  For the purposes of this lease, 'drilling' means that a bore hole of at least 100 vertical feet has been drilled on the leased premises or in a pooling unit thereof and that a drilling rig is on site.
+    Lessor, in consideration of two years of delay rental at a rate of $ *______* ($ *______* per acre x *_____* acres) per year for a total lump sum payment of $ *_____* and of the royalties, covenants, and conditions contained herein to be kept and performed by the lessee, does lease exclusively to lessee the premises described above, for the purpose of exploring, drilling, and producing oil and/or gas from the leased premises for a primary term of two years and as long thereafter as oil and/or gas may be produced in commercial quantities and subject to other provisions as provided herein.  According to trade terminology, this lease shall be considered a ’paid-up’ lease and as such does not obligate the lessee to commence any operations during the primary term.  No part of this lump sum payment shall be refundable under any circumstances.  If after two years, drilling has not started, the lease shall summarily end without notice.  For the purposes of this lease, 'drilling' means that a bore hole of at least 100 vertical feet has been drilled on the leased premises or in a pooling unit thereof and that a drilling rig is on site.
 
 10.  DRILLING
 
