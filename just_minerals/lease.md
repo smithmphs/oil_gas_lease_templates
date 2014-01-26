@@ -2,11 +2,11 @@
 
 1. THE LESSOR AND LESSEE
 
-       This lease is between <...>, hereinafter called the 'lessor', and <...>, hereinafter called the 'lessee'.  The agreements and conditions contained herein shall extend to and be binding upon the heirs, executors, administrators, successors and/or assignees of the lessee.
+       This lease is between *___________________*, hereinafter called the 'lessor', and *_______________*, hereinafter called the 'lessee'.  The agreements and conditions contained herein shall extend to and be binding upon the heirs, executors, administrators, successors and/or assignees of the lessee.
 
 2. THE PREMISES
 
-    This lease confers certain rights to the <...> geological formation below the area described in this section.  The lessor reserves the right to lease any other formation to any potential lessee in the future.
+    This lease confers certain rights to the *_______________* geological formation(s) below the area described in this section.  The lessor reserves the right to lease any other formation to any potential lessee in the future.
 
     * State: *__________________________*
     * County: *__________________________*
