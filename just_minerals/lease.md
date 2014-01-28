@@ -124,7 +124,7 @@
 
 21.  PICTORIAL REPRESENTATION OF ALL STATES RECOGNIZED BY LEASE
 
-    ![](just_minerals/graph.png?raw=true)
+    ![Image](graph.png?raw=true)
     
 
 
