@@ -122,5 +122,10 @@
     * any mineral discoveries made during the course of drilling
     * and any other audit data needed for a fair and timely determination of royalty payments
 
+21.  PICTORIAL REPRESENTATION OF ALL STATES RECOGNIZED BY LEASE
+
+    ![](just_minerals/graph.png?raw=true)
+    
+
 
             
