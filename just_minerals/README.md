@@ -43,5 +43,3 @@ digraph G {
  k -> i [label="2 months"]; 
 }
 ```
-
-The eleven ovals indicate mutually ­exclusive states in which the lease can exist.  Arrows define 17 possible transitions, 5 of which are bidirectional.  The time intervals annotating the arrows indicate the maximum contiguous block of time the lease is allowed to remain in the indicated state before it automatically transitions to termination by default. The colors of the ovals indicate income to the lessor: white indicates no income, light green means rental income and dark green means production royalties. At the beginning of a lease, a single well is under consideration.  But depending on the particulars of the situation, the obligation to drill an additional well is incurred.  These points are referred to as 'spawn pts' in the diagram. 
