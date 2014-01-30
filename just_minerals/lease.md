@@ -103,7 +103,7 @@
     After expiration of the primary term, rental payments (expressed here on an annualized basis) shall be adjusted for inflation according to the following mathematical formula: 
 
 
-        $300.00 x acreage under lease x (1 + CPI/100 from year 1 subsequent to primary term) x 
+        $*________* x acreage under lease x (1 + CPI/100 from year 1 subsequent to primary term) x 
         (1 + CPI/100 from year 2 subsequent to primary term) ... x 
         (1 + (fraction of the present year already past) x 
         (the most recently reported CPI available/100)), 
