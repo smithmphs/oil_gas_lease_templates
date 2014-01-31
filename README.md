@@ -11,7 +11,7 @@ We welcome contributions in the form of issues or pull requests.  Please help ma
 Known Issues
 ============
 
-    * Section numbers are not consecutive due to some unresolved issue with markdown.  
+Section numbers are not always consecutive due to some unresolved issue with markdown.  
 
 Disclaimer
 ==========
