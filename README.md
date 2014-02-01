@@ -8,11 +8,6 @@ Contributing
 
 We welcome contributions in the form of issues or pull requests.  Please help make these templates better!
 
-Known Issues
-============
-
-Section numbers are not always consecutive due to some unresolved issue with markdown.  
-
 Disclaimer
 ==========
 
