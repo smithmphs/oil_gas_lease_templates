@@ -8,11 +8,11 @@
 
     This lease confers certain rights to the *_______________* geological formation(s) below the area described in this section.  The lessor reserves the right to lease any other formation to any potential lessee in the future.
 
-    * State: *__________________________*
-    * County: *__________________________*
-    * Township: *________________________*
-    * Sections and Lots: *____________________*
-    * Total Acreage: *_____________________*
+* State: *__________________________*
+* County: *__________________________*
+* Township: *________________________*
+* Sections and Lots: *____________________*
+* Total Acreage: *_____________________*
 
     Near-surface rights are limited to what is reasonably required for drilling and production.
 
