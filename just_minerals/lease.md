@@ -113,14 +113,7 @@
 
 20.  COMMUNICATION WITH THE LESSOR
 
-    In addition to the communications already stipulated in this lease, the lessee shall provide the lessor with timely information regarding:
-
-        title opinions,
-        drilling and drilling completion reports,
-        well logs,
-        drilling permits,
-        any mineral discoveries made during the course of drilling
-        and any other audit data needed for a fair and timely determination of royalty payments
+    In addition to the communications already stipulated in this lease, the lessee shall provide the lessor with timely information regarding: (1)title opinions, (2) drilling and drilling completion reports, (3) well logs, (4) drilling permits, (5) any mineral discoveries made during the course of drilling and (5) any other audit data needed for a fair and timely determination of royalty payments
 
 21.  PICTORIAL REPRESENTATION OF ALL STATES RECOGNIZED BY LEASE
 
