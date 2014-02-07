@@ -34,7 +34,7 @@
 
 7.  PROOF OF INSURANCE
 
-    Before signing, the lessee shall provide to the lessor via its insurance company proof of the following: 1) Worker's Compensation and Employer's Liability Insurance; 2) Commercial General Liability and Umbrella Liability Insurance; and 3) Business Auto and Umbrella Liability Insurance.  Thereafter, yearly updates of proof of the same directly from the lessee's insurance company to the lessor must be provided by the anniversary date of the signing.
+    Before signing, the lessee shall provide to the lessor via its insurance company proof of the following: 1) worker's compensation and employer's liability insurance; 2) commercial general liability and umbrella liability insurance; and 3) business auto and umbrella liability insurance.  Thereafter, yearly updates of proof of the same directly from the lessee's insurance company to the lessor must be provided by the anniversary date of the signing.
 
 8. NON-PAYMENTS AND OTHER LEASE VIOLATIONS
 
