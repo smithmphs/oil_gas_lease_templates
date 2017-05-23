@@ -2,7 +2,7 @@
 
 1. THE LESSOR AND LESSEE
 
-       This lease is between *___________________*, hereinafter called the 'lessor', and *_______________*, hereinafter called the 'lessee'.  The agreements and conditions contained herein shall extend to and be binding upon the heirs, executors, administrators, successors and/or assignees of the lessee.
+     This lease is between *___________________*, hereinafter called the 'lessor', and *_______________*, hereinafter called the 'lessee'.  The agreements and conditions contained herein shall extend to and be binding upon the heirs, executors, administrators, successors and/or assignees of the lessee.
 
 2. THE PREMISES
 
