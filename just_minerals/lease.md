@@ -46,7 +46,7 @@
 
 10.  DRILLING
 
-    If the primary term expires while drilling is still being undertaken, then the lease shall remain in effect for one year as long as good faith efforts at drilling continue.  For this consideration and while these conditions remain in effect, the lessor will be due a monthly delay rental as specified in section 19 below.  If after a year production still has not commenced, this lease will summarily end without notice.
+     If the primary term expires while drilling is still being undertaken, then the lease shall remain in effect for one year as long as good faith efforts at drilling continue.  For this consideration and while these conditions remain in effect, the lessor will be due a monthly delay rental as specified in section 19 below.  If after a year production still has not commenced, this lease will summarily end without notice.
 
 11.  PRODUCTION
 
