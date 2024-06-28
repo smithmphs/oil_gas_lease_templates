@@ -2,7 +2,7 @@
 
 1. THE LESSOR AND LESSEE
 
-       This lease is between *___________________*, hereinafter called the 'lessor', and *_______________*, hereinafter called the 'lessee'.  The agreements and conditions contained herein shall extend to and be binding upon the heirs, executors, administrators, successors and/or assignees of the lessee.
+     This lease is between *___________________*, hereinafter called the 'lessor', and *_______________*, hereinafter called the 'lessee'.  The agreements and conditions contained herein shall extend to and be binding upon the heirs, executors, administrators, successors and/or assignees of the lessee.
 
 2. THE PREMISES
 
@@ -117,7 +117,7 @@
 
 21.  PICTORIAL REPRESENTATION OF ALL STATES RECOGNIZED BY LEASE
 
-    ![Image](graph.png?raw=true)
+![Image](graph.png?raw=true)
     
     This directed graph is a pictorial representation of the lease. The eleven ovals indicate mutually ­exclusive states in which the lease can exist. Arrows define 21 possible transitions, 6 of which are bidirectional.  Bidirectionality indicates that the lease can toggle between the two states so connected. The time intervals annotating the arrows indicate the maximum contiguous block of time the lease is allowed to remain in the indicated state before it automatically transitions to termination by default. The colors of the ovals indicate income to the lessor: white indicates no income, light green means rental income and dark green means production royalties. At the beginning of a lease, a single well is under consideration. But depending on the particulars of the situation, the obligation to drill an additional well is incurred. These points are referred to as 'spawn pts' in the diagram.  
     

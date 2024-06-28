@@ -1,7 +1,7 @@
 About
 ======================
 
-Welcome to the GitHub for mineral rights lease templates.  Oil and gas leases are complicated documents and it is our hope that the templates provided here will provide mineral rights holders a starting point in their negotiations with producers.  
+Welcome to the GitHub for mineral rights lease templates.  Oil and gas leases are complicated documents, and it is our hope that the templates provided here will provide mineral rights holders a starting point in their negotiations with producers.  
 
 Contributing
 ============
