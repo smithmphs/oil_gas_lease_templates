@@ -50,7 +50,7 @@
 
 11.  PRODUCTION
 
-   In this lease, 'production' means a state-of-affairs in which the lessor is receiving royalties on oil and/or gas being extracted from the premises. Commencement of production at one well may automatically spawn another drilling obligation as described below in section 13.
+    In this lease, 'production' means a state-of-affairs in which the lessor is receiving royalties on oil and/or gas being extracted from the premises. Commencement of production at one well may automatically spawn another drilling obligation as described below in section 13.
 
 12. PRODUCTION ROYALTIES
 
