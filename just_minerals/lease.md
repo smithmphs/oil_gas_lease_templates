@@ -46,11 +46,11 @@
 
 10.  DRILLING
 
-     If the primary term expires while drilling is still being undertaken, then the lease shall remain in effect for one year as long as good faith efforts at drilling continue.  For this consideration and while these conditions remain in effect, the lessor will be due a monthly delay rental as specified in section 19 below.  If after a year production still has not commenced, this lease will summarily end without notice.
+    If the primary term expires while drilling is still being undertaken, then the lease shall remain in effect for one year as long as good faith efforts at drilling continue.  For this consideration and while these conditions remain in effect, the lessor will be due a monthly delay rental as specified in section 19 below.  If after a year production still has not commenced, this lease will summarily end without notice.
 
 11.  PRODUCTION
 
-    In this lease, 'production' means a state-of-affairs in which the lessor is receiving royalties on oil and/or gas being extracted from the premises. Commencement of production at one well may automatically spawn another drilling obligation as described below in section 13.
+   In this lease, 'production' means a state-of-affairs in which the lessor is receiving royalties on oil and/or gas being extracted from the premises. Commencement of production at one well may automatically spawn another drilling obligation as described below in section 13.
 
 12. PRODUCTION ROYALTIES
 
